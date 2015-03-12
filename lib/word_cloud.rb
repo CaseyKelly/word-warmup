@@ -7,4 +7,6 @@ class WordCloud
       return hash
    end
 
+
+
 end
